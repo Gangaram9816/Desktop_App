@@ -1,0 +1,10 @@
+flet
+pyserial
+numpy
+plotly
+pandas
+Pyrebase4
+psycopg2
+kaleido
+setuptools
+python-dotenv
